@@ -1,0 +1,25 @@
+This plugin is licencsed under GNU General Public License, version 2
+
+PGNViewer plugin for WordPress
+Copyright (C) 2012 Mikel Larreategi <larreategi@eibar.org>
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License 
+version 2 as published by the Free Software Foundation.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
+
+
+The ChessTempo PGN Viewer is licensed under a Creative Commons BY-ND-NC License. 
+You are able to use the viewer for free on your non-commercial web site(s) on the condition that 
+you place a visible link to http://chesstempo.com on the page(s) where you are using the viewer. 
+
+This WordPress plugin creates automatically a link to http://chesstempo.com each time a viewer is shown.
+

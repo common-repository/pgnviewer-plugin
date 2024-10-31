@@ -1,0 +1,59 @@
+=== PGNViewer ===
+Contributors: erralin
+Tags: chess, javascript, viewer, pgn, games
+Requires at least: 3.3
+Tested up to: 3.3.1
+Stable tag: 0.7
+
+A simple Wordpress plugin that allows you to embed ChessTempo's 
+PGNViewer into a post or a page to show a chess game viewer
+from PGN format files.
+
+== Description ==
+
+A simple Wordpress plugin that allows you to embed ChessTempo's PGNViewer into a post or a page. 
+
+USAGE:  While editing a post, create a custom field with PGN name and paste the URL of the PGN 
+file into the value of the field. The viewer will appear automatically in the page or post.
+
+You can add more than one PGN fields. They will be shown as many viewers as custom fields you add.
+
+ChessTempo: http://chesstempo.com
+
+== Changelog ==
+
+= 0.7 = 
+
+Brown bag release: jQuery is called jQuery and not $ in WordPress
+
+= 0.6 = 
+
+Fix version number to avoid WordPress to ask to upgrade when 
+using the latest version.
+
+Use jquery to delay the creation of the viewer to the page load
+
+= 0.5 = 
+
+Use enqueue_script and enqueue_style as preferred way
+of including JS and CSS files
+
+= 0.4 = 
+
+Add changelog documentation
+
+= 0.3 =
+
+Add CSS file in the header
+
+= 0.2 = 
+
+Brown bag release, JS files were not included in the header
+
+= 0.1 = 
+
+Initial version
+
+== LICENSE ==
+
+GPLv2. See LICENSE file.
